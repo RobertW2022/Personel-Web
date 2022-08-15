@@ -1,0 +1,338 @@
+
+<!DOCTYPE html>
+<html lang="en-US" data-website-id="1" data-main-object="website.page(4,)" data-oe-company-name="CV Ardinata Jasa Kontruksi">
+    <head>
+        <meta charset="utf-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="generator" content="Odoo"/>
+            
+        <meta property="og:type" content="website"/>
+        <meta property="og:title" content="Home | CV Ardinata Jasa Kontruksi"/>
+        <meta property="og:site_name" content="CV Ardinata Jasa Kontruksi"/>
+        <meta property="og:url" content="https://cvardinjasakontruksi.odoo.com/"/>
+        <meta property="og:image" content="https://cvardinjasakontruksi.odoo.com/web/image/website/1/logo?unique=b0e1575"/>
+            
+        <meta name="twitter:card" content="summary_large_image"/>
+        <meta name="twitter:title" content="Home | CV Ardinata Jasa Kontruksi"/>
+        <meta name="twitter:image" content="https://cvardinjasakontruksi.odoo.com/web/image/website/1/logo/300x300?unique=b0e1575"/>
+
+        <link rel="canonical" href="https://cvardinjasakontruksi.odoo.com/"/>
+        <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""/>
+        <title> Home | CV Ardinata Jasa Kontruksi </title>
+        <link type="image/x-icon" rel="shortcut icon" href="/web/image/website/1/favicon?unique=b0e1575"/>
+        <link rel="preload" href="/web/static/lib/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0" as="font" crossorigin=""/>
+        <link type="text/css" rel="stylesheet" href="/web/assets/461-4525683/1/web.assets_common.min.css" data-asset-bundle="web.assets_common" data-asset-version="4525683"/>
+        <link type="text/css" rel="stylesheet" href="/web/assets/464-103fef3/1/web.assets_frontend.min.css" data-asset-bundle="web.assets_frontend" data-asset-version="103fef3"/>
+        <script id="web.layout.odooscript" type="text/javascript">
+            var odoo = {
+                csrf_token: "3d215e4eb85dc15a34e332e85daff7b158c087f3o1692085261",
+                debug: "",
+            };
+        </script>
+        <script type="text/javascript">
+            odoo.__session_info__ = {"is_admin": false, "is_system": false, "is_website_user": true, "user_id": false, "is_frontend": true, "profile_session": null, "profile_collectors": null, "profile_params": null, "show_effect": true, "translationURL": "/website/translations", "cache_hashes": {"translations": "d7beb64ac253949ed697973c3a3395dba064d656"}, "geoip_country_code": "ID"};
+            if (!/(^|;\s)tz=/.test(document.cookie)) {
+                const userTZ = Intl.DateTimeFormat().resolvedOptions().timeZone;
+                document.cookie = `tz=${userTZ}; path=/`;
+            }
+        </script>
+        <script defer="defer" type="text/javascript" src="/web/assets/188-828e723/1/web.assets_common_minimal.min.js" data-asset-bundle="web.assets_common_minimal" data-asset-version="828e723"></script>
+        <script defer="defer" type="text/javascript" src="/web/assets/189-1de2783/1/web.assets_frontend_minimal.min.js" data-asset-bundle="web.assets_frontend_minimal" data-asset-version="1de2783"></script>
+        <script defer="defer" type="text/javascript" data-src="/web/assets/462-486cf60/1/web.assets_common_lazy.min.js" data-asset-bundle="web.assets_common_lazy" data-asset-version="486cf60"></script>
+        <script defer="defer" type="text/javascript" data-src="/web/assets/465-3661089/1/web.assets_frontend_lazy.min.js" data-asset-bundle="web.assets_frontend_lazy" data-asset-version="3661089"></script>
+        
+        
+    </head>
+    <body class="">
+        <div id="wrapwrap" class="homepage   ">
+                <header id="top" data-anchor="true" data-name="Header" class="  o_header_standard">
+                    <div class="oe_structure oe_structure_solo" id="oe_structure_header_image_1">
+      <section class="s_cover pt8 oe_img_bg o_bg_img_center o_colored_level pb16" data-snippet="s_cover" data-name="Cover" style="background-image: url(&#34;/web/image/website.header_image_1_default_image&#34;);">
+        <div class="container s_allow_columns">
+          <p class="mb-0">
+            <br/>
+          </p>
+        </div>
+      </section>
+    </div>
+    <nav data-name="Navbar" class="navbar navbar-expand-lg navbar-light o_colored_level o_cc shadow-sm">
+        
+            <div id="top_menu_container" class="container">
+                
+    <a href="/" class="navbar-brand logo ">
+            <span role="img" aria-label="Logo of CV Ardinata Jasa Kontruksi" title="CV Ardinata Jasa Kontruksi"><img src="/web/image/website/1/logo/CV%20Ardinata%20Jasa%20Kontruksi?unique=b0e1575" class="img img-fluid" alt="CV Ardinata Jasa Kontruksi" loading="lazy"/></span>
+        </a>
+    
+                
+    <div class="oe_structure oe_structure_solo d-lg-none mr-3">
+            
+        </div>
+                
+    <button type="button" data-toggle="collapse" data-target="#top_menu_collapse" class="navbar-toggler ">
+        <span class="navbar-toggler-icon o_not_editable"></span>
+    </button>
+                
+                <div id="top_menu_collapse" class="collapse navbar-collapse">
+    <ul id="top_menu" class="nav navbar-nav o_menu_loading ml-lg-3 flex-grow-1">
+        
+                        
+    <li class="nav-item">
+        <a role="menuitem" href="/" class="nav-link active">
+            <span>Home</span>
+        </a>
+    </li>
+    <li class="nav-item">
+        <a role="menuitem" href="/about-us" class="nav-link ">
+            <span>Tentang kami</span>
+        </a>
+    </li>
+    <li class="nav-item">
+        <a role="menuitem" href="/blog/2" class="nav-link ">
+            <span>Informasi</span>
+        </a>
+    </li>
+    <li class="nav-item">
+        <a role="menuitem" href="/our-services" class="nav-link ">
+            <span>Layanan &amp; Services</span>
+        </a>
+    </li>
+                        
+            <li class="nav-item ml-lg-auto o_no_autohide_item">
+                <a href="/web/login" class="nav-link">Sign in</a>
+            </li>
+                        
+    </ul>
+                    
+                    
+    <div class="oe_structure oe_structure_solo d-none d-lg-block ml-3">
+            
+        </div>
+                </div>
+            </div>
+    </nav>
+    </header>
+                <main>
+                    
+    <div id="wrap" class="oe_structure oe_empty">
+      <section class="s_picture pb24 o_colored_level pt48 o_cc o_cc5" data-snippet="s_picture" data-name="Picture" style="background-image: none;">
+        <div class="container">
+          <h1>
+            </h1>
+          <h1 style="text-align: center;">
+            <span style="font-size: 36px;">ANDA INGIN</span>
+          </h1>
+          <h1 style="text-align: center;">
+            <span style="font-size: 36px;">
+            &nbsp;JASA LAYANAN&nbsp; KAMI ?</span>
+            <br/>
+          </h1>
+          <p style="text-align: center;">
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section class="s_image_gallery o_masonry o_cc o_cc3 pt0 pb0 o_spc-none o_colored_level" data-vcss="001" data-columns="3" style="overflow: hidden; background-image: none;" data-snippet="s_images_wall" data-name="Images Wall">
+        <div class="container-fluid">
+          <div class="row s_nb_column_fixed">
+            <div class="o_masonry_col o_snippet_not_selectable col-lg-4">
+              <img class="img img-fluid d-block" src="/web/image/306-1e86e855/icon%20ardinata6.jpg" data-index="0" data-name="Image" loading="lazy" style="" data-original-title="" title="" aria-describedby="tooltip577064" alt="" data-original-id="305" data-original-src="/web/image/305-ce9a32c4/icon%20ardinata6.jpg" data-mimetype="image/jpeg" data-resize-width="695"/>
+              <img class="img img-fluid d-block" src="/web/image/website.library_image_10" data-index="3" data-name="Image" loading="lazy" style=""/>
+            </div>
+            <div class="o_masonry_col o_snippet_not_selectable col-lg-4">
+              <img class="img img-fluid d-block" src="/web/image/website.library_image_13" data-index="1" data-name="Image" loading="lazy" style=""/>
+              <img class="img img-fluid d-block" src="/web/image/website.library_image_05" data-index="4" data-name="Image" loading="lazy" style=""/>
+            </div>
+            <div class="o_masonry_col o_snippet_not_selectable col-lg-4">
+              <img class="img img-fluid d-block" src="/web/image/website.library_image_14" data-index="2" data-name="Image" loading="lazy" style=""/>
+              <img class="img img-fluid d-block" src="/web/image/website.library_image_16" data-index="5" data-name="Image" loading="lazy" style=""/>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_image o_cc o_cc5 o_colored_level pb0 pt16" data-snippet="s_text_image" data-name="Text - Image" style="background-image: none;">
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="pt16 border o_colored_level pb0 col-lg-6" style="padding: 24px; border-width: 1px !important; border-color: rgb(70, 77, 83) !important; border-radius: 4px !important;">
+              <h2>
+                <span style="font-size: 24px;">Portfolio / </span>
+                <span style="font-size: 18px;">website pribadi</span>
+              </h2>
+              <h2>
+                <font style="color: rgb(0, 0, 255);">CV.&nbsp; ARDINATA&nbsp;</font>
+              </h2>
+              <p>
+                <br/>
+              </p>
+              <p>
+                Kami adalah badan usaha atau kontraktor, 
+vendor bergerak dibidang jasa layanan perbaikan, renovasi, relokasi, 
+perawatan, pembangunan&nbsp; kantor, gedung, ruko, gudang, tempat usaha, 
+pabrik, jasa layanan pemasangan, perbaikan, service AC, indoor, outdoor.</p>
+              <p>
+
+ Sub Bidang Usaha lain yang baru mulai kami kembangkan rintis adalah
+ pengadaan instalasi/ perbaikan berkaitan dengan kamera &amp; DVR CCTV Alarm gedung kantor serta Jasa&nbsp;Teknologi.<br/></p>
+              <p>Kami menerima panggilan service langsung datang ke lokasi.<br/></p>
+              <p>
+                <br/>
+              </p>
+              <p>
+                <br/>
+              </p>
+              <p>
+                <br/>
+              </p>
+            </div>
+            <div class="o_colored_level pt0 pb64 col-lg-6">
+              <img src="/web/image/358-f8322a1b/icon%20ardinata5.jpg" class="img img-fluid mx-auto" alt="" loading="lazy" style="" data-original-title="" title="" aria-describedby="tooltip101139" data-original-id="283" data-original-src="/web/image/283-07c28d6c/icon%20ardinata5.jpg" data-mimetype="image/jpeg" data-resize-width="690"/>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_numbers o_cc o_cc1 pt0 o_colored_level pb4" data-snippet="s_numbers" data-name="Numbers" style="background-image: none;">
+        <div class="container">
+          <div class="row">
+            <div class="text-center pt24 pb24 col-lg-4 d-flex align-items-center justify-content-center o_colored_level" style="">
+              <span class="s_number display-4">
+                <span style="font-size: 24px;">
+                  <span style="font-size: 48px;">1 </span>
+                  <span style="font-size: 18px;">Pelayanan ramah</span>
+                </span>
+                <span style="font-size: 11px;">​</span>
+              </span>
+            </div>
+            <div class="text-center pb24 col-lg-4 d-flex align-items-center justify-content-center o_colored_level pt40"><span style="font-size: 62px;">2</span> &nbsp; <span style="font-size: 24px;"><span style="font-size: 18px;">Harga terjangkau</span></span>
+              
+            </div>
+            <div class="text-center pt24 pb24 col-lg-4 d-flex align-items-center justify-content-center o_colored_level">
+              <span class="s_number display-4">
+                <span style="font-size: 62px;">3</span>
+                <br/>
+              </span>
+              <br/>
+              <h6 class="m-0 pl-3">
+                <span style="font-size: 18px;">Teknisi berpengalaman</span>
+                <br/>
+              </h6>
+            </div>
+            <attribute name="class" remove="col-lg-3" separator=" "></attribute>
+          </div>
+        </div>
+      </section>
+      <section class="s_call_to_action o_cc o_cc3 pt48 o_colored_level pb40" data-snippet="s_call_to_action" data-name="Call to Action" style="background-image: none;" data-original-title="" title="" aria-describedby="tooltip811011">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-9 o_colored_level pb24">
+              <h3>
+                <span style="font-size:18.0pt;color:red">
+                  <font class="text-o-color-4">MELAKUKAN&nbsp; PELAYANAN YANG TERBAIK BAGI KONSUMEN &nbsp;PELANGGAN KAMI DIMANAPUN BERADA...</font>
+                </span>
+                <br/>
+              </h3>
+            </div>
+            <div class="o_colored_level pt16 col-lg-3" data-original-title="" title="" aria-describedby="tooltip374723" style="">
+              <ul class="list-unstyled mb-2">
+                <li data-original-title="" title="" aria-describedby="tooltip416947">
+                  <i class="fa fa-phone fa-fw mr-2"></i>
+                  <span class="o_force_ltr">
+                    Link Sosial Media
+                  </span>
+                </li>
+                <li data-original-title="" title="" aria-describedby="tooltip292517">
+                  </li>
+              </ul>
+              <div class="s_social_media text-left o_not_editable" data-snippet="s_social_media" data-name="Social Media">
+                <h4 class="s_social_media_title d-none o_default_snippet_text">Social Media</h4>
+                <a target="_blank" href="/website/social/facebook" class="s_social_media_facebook">
+                  <i class="fa rounded-circle shadow-sm fa-facebook"></i>
+                </a>
+                <a target="_blank" href="/website/social/youtube" class="s_social_media_youtube">
+                  <i class="fa rounded-circle shadow-sm fa-youtube"></i>
+                </a>
+                <a target="_blank" href="/website/social/instagram" class="s_social_media_instagram" data-original-title="" title="">
+                  <i class="fa rounded-circle shadow-sm fa-instagram" data-original-title="" title="" aria-describedby="tooltip610591"></i>
+                </a>
+              </div>
+              <div class="s_social_media text-left no_icon_color o_not_editable" data-snippet="s_social_media" data-name="Social Media">
+                <h5 class="s_social_media_title d-none">Follow&nbsp;</h5>
+                <h5 class="s_social_media_title d-none">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="/website/social/instagram" class="s_social_media_instagram" target="_blank" data-original-title="" title=""><i class="fa fa-2x fa-instagram m-1"></i></a>
+                <a href="/website/social/linkedin" class="s_social_media_linkedin" target="_blank" data-original-title="" title=""><i class="fa fa-2x fa-linkedin m-1" data-original-title="" title="" aria-describedby="tooltip162484"></i></a>
+                </h5>
+                <a href="/website/social/youtube" class="s_social_media_youtube d-none" target="_blank">
+                  <i class="fa fa-2x fa-youtube m-1"></i>
+                </a>
+                <a href="/website/social/facebook" class="s_social_media_facebook d-none" target="_blank">
+                  <i class="fa fa-2x fa-facebook m-1"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+                </main>
+                <footer id="bottom" data-anchor="true" data-name="Footer" class="o_footer o_colored_level o_cc ">
+                    <div id="footer" class="oe_structure oe_structure_solo" style="">
+      <section class="s_text_block pb0" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+        <div class="container">
+          <div class="row">
+            <div class="o_colored_level pt32 col-lg-6">
+              <p>We are&nbsp; have good team work in contruction company, have experience with several of project<br/></p>
+            </div>
+            <div class="o_colored_level pt24 col-lg-4 offset-lg-1" style="" data-original-title="" title="" aria-describedby="tooltip157548">
+              <p class="text-muted"><font style="color: rgb(0, 0, 255); font-size: 18px;">&nbsp;Head Office</font><br/><a href="https://Jl.Laks.Martadinata"><font class="text-black">Jl.Laks.Martadinata</font></a><font class="text-black"> III-6010&nbsp;</font>&nbsp;</p>
+              <p class="text-muted">
+Malang 65136 &nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/></p>
+              <p class="text-muted"><span style="font-size: 12px;"><span style="font-weight: bolder; font-size: 14px;">Email </span><span style="font-size: 14px;">: </span><span style="font-weight: normal; font-size: 14px;">cvardinatamlg@gmail.com</span><span style="font-size: 14px;">&nbsp;&nbsp;</span></span>&nbsp;&nbsp;&nbsp;</p>
+              <p class="text-muted">
+                <span style="font-size: 12px;">
+                  <span style="font-weight: bolder; font-size: 14px;">Phone/WA :</span>
+                  <span style="font-size: 14px;">&nbsp;</span>
+                </span>
+                <span style="font-size: 14px;">&nbsp;0812 3386 903</span>
+              </p>
+              <p class="text-muted">
+                <br/>
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  <div class="o_footer_copyright o_colored_level o_cc" data-name="Copyright">
+                        <div class="container py-3">
+                            <div class="row">
+                                <div class="col-sm text-center text-sm-left text-muted">
+                                    <span class="o_footer_copyright_name mr-2">Copyright ©ArdinataCV</span>
+                                </div>
+                                <div class="col-sm text-center text-sm-right o_not_editable">
+        <div class="o_brand_promotion">
+        Powered by 
+            <a target="_blank" class="badge badge-light" href="http://www.odoo.com?utm_source=db&amp;utm_medium=website">
+                <img alt="Odoo" src="/web/static/img/odoo_logo_tiny.png" style="height: 1em; vertical-align: baseline;" loading="lazy"/>
+            </a>
+        - 
+                Create a <a target="_blank" href="http://www.odoo.com/app/website?utm_source=db&amp;utm_medium=website">free website</a>
+            
+    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+                    <script>
+            
+                window.addEventListener('load', function () {
+
+                    odoo.define('im_livechat.livesupport', function (require) {
+                    });
+                });
+            
+                    </script>
+        
+        </body>
+</html>
